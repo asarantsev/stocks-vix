@@ -1,4 +1,4 @@
-# stocks-vix
+# vix-stocks
 The data vix-stocks.xlsx and Python code vix-stocks.py are for the manuscript 
 
 Log Heston Model for Monthly Average VIX 
