@@ -13,4 +13,6 @@ VarGamma package is taken from dlaptev repository and used here
 
 UPDATE: For the blog post about Yeo-Johnson transform, see VIX.xlsx and VIX-YJX.py files.
 
+https://my-finance.org/2026/09/14/yeo-johnson-transform-for-monthly-average-vix/
+
 
