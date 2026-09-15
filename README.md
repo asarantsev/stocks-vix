@@ -9,4 +9,8 @@ The data is taken from two web sites: Federal Reserve Economic Data (FRED) and K
 
 VarGamma package is taken from dlaptev repository and used here
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+UPDATE: For the blog post about Yeo-Johnson transform, see VIX.xlsx and VIX-YJX.py files.
+
 
